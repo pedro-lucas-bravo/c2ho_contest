@@ -2,13 +2,15 @@
 
 # Concept
 
-This logo is based on the description of the iniciative and a chemical formula related to teh name, as weel as teh concept of a network and some elements relevent to it according to the goals of teh hub.
+This logo is based on the description of the iniciative and a chemical formula related to the name (C2HO), as well as the concept of a network and some elements relevant to it according to the goals of the hub.
 
-# Product
+# How to run?
 
-The source code is implemented in Python using a Jupiter notebook, the file is 'c2ho_logo.ipynb'. The code can be run simply by executing the whole notebook. The last cell generates the renders, if you wnt to play the result again just execute the cell where 'ipd.display' commands are being used (one cell before the last one) after a full run.
+The source code is implemented in Python using a Jupiter notebook, the file is 'c2ho_logo.ipynb'. The code can be run simply by executing the whole notebook. The last cell generates the renders, if you want to play the result again just execute the cell where 'ipd.display' commands are being used (one cell before the last one) after a full run.
 
-There is a SVG image with animations with a .wav file that goes together. For now it is possible to play both when the Jupiter notebook is executed. Both, audio and animation, instantaneously play. As standalone files are not joined together currently but can be inspected independently, the SVG in a browser and the .wav in a audio player. Both files are in the 'Render' folder.
+# How to play?
+
+There is a HTML file and a .wav file that goes together in the 'Render' folder. Open the .html file in a browser and press 'START'. The animated SVG will play together with the audio. It might be a bit unsync in the first play, but if you play 'START' again you will notice that image and sound are in sync with the animations that are happening at the begining.
 
 *This work is licensed under a Creative Commons Attribution 4.0 International License*
 
